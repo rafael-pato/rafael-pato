@@ -49,6 +49,17 @@ Lua, gameplay systems, UI, DataStore persistence (2022–Present).
 
 ---
 
+😝 Fun Facts
+
+- 🎮 **Competitive Gaming**: I enjoy competitive games and thrive in high-focus, performance-driven environments.
+- - 🎌 **Anime**: Big anime fan — I enjoy the storytelling, art style, and world-building.
+- 🏋️ **Gym**: Training at the gym helps me stay disciplined, active, and mentally sharp.
+- 🎵 **Music**: Music is a constant part of my life and often fuels my creativity.
+- 🏊 **Swimming**: Practiced swimming when I was younger, which helped build discipline and consistency.
+- 🎮 **Early Game Development**: Started creating Roblox games at a very young age — first game released in 2018.
+
+---
+
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pato-2b330b348/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelfspato@gmail.com)
