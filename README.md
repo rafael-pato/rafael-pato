@@ -1,69 +1,54 @@
-👋 Hello, I'm Rafael Pato
+## 👋 Hey, I'm Rafael Pato
 
-I'm a Computer Engineering student based in Setúbal, Portugal, with a strong focus on software development and interactive systems.  
-I enjoy building structured, maintainable solutions — from backend logic and algorithms to user-facing applications and games.
-
-My background combines academic projects, real-world application development, and long-term experience in game development within international communities.
+Final-year Computer Engineering student at Instituto Politécnico de Setúbal, Portugal.  
+Looking for a **curricular internship** in software development.
 
 ---
 
-🧩 What I work with
+## 🧑‍💻 Tech Stack
 
-I have hands-on experience developing applications using:
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 
-• Java (JavaFX, algorithmic problem solving, design patterns)  
-• C# & ASP.NET Core (backend development, layered architectures)  
-• Dart & Flutter (mobile apps with sensors, GPS, and Firebase)  
-• Lua (game systems, UI logic, data persistence in Roblox)  
-• SQL (database design and querying)  
-
-Tools I use regularly include IntelliJ IDEA, Visual Studio Code, Visual Studio, Git, Firebase, and SQL Server.
-
----
-
-🛠️ Experience highlights
-
-• **Project Developer — LYRIX (Ongoing)**  
-  Collaborative musical platform built with ASP.NET Core following an N-Tier Architecture.  
-  Focused on backend structure, scalability, and maintainable software design.
-
-• **Project Developer — Transportation Planning App (2024–2025)**  
-  Designed and implemented a Java application to calculate and visualize transportation routes using graph-based algorithms.  
-  Applied MVC, Observer, and Strategy patterns to ensure a clean and scalable architecture.
-
-• **Mobile App Developer — Startup Prototype Project (2025)**  
-  Developed an Android application in Flutter integrating GPS, luminosity sensors, and Firebase authentication/database.  
-  Delivered documentation and presented the prototype to startup stakeholders.
-
-• **Game Developer — Roblox Platform (2022–Present)**  
-  Develop interactive multiplayer experiences using Lua and Roblox Studio.  
-  Built gameplay systems, UI frameworks, event-driven logic, and persistent data systems.  
-  Regularly collaborate with an international developer and player community, strengthening technical communication in English.
+### Frameworks & Tools
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-🎯 Areas I’m particularly interested in
+## 🚀 Experience & Projects
 
-• Software architecture and clean code  
-• Algorithms, graphs, and problem-solving  
-• Backend development and data persistence  
-• Mobile development and cross-platform apps  
-• Game systems and interactive experiences  
+🎵 **LYRIX (Ongoing)**  
+Collaborative musical platform using ASP.NET Core & N-Tier Architecture.
 
----
+🗺️ **Transportation Planning App**  
+Java + Graph Algorithms + Design Patterns.
 
-🌱 Beyond the code
+📱 **Startup Mobile App**  
+Flutter app with GPS, sensors & Firebase.
 
-Outside of programming, I’ve been involved in volunteering for several years through Scouts and Banco Alimentar, which helped develop leadership, teamwork, and responsibility.  
-I also practice karate, enjoy gaming, and value staying active.
-
-Languages:
-• Portuguese — Native  
-• English — Upper Intermediate (B2)
+🎮 **Game Developer (Roblox)**  
+Lua, gameplay systems, UI, DataStore persistence (2022–Present).
 
 ---
 
-📫 Let’s connect
+## 🎯 Interests
+- Software Architecture
+- Algorithms & Graph Theory
+- Backend & Data Persistence
+- Mobile Development
+- Game Systems
 
-LinkedIn: https://www.linkedin.com/in/rafael-pato-2b330b348/  
-Email: rafaelfspato@gmail.com
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pato-2b330b348/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelfspato@gmail.com)
